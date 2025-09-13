@@ -1,4 +1,5 @@
 Product Sales Dashboard
+
 This interactive Power BI dashboard provides a comprehensive analysis of product sales performance across different categories, regions, and payment methods.
 
 Key Insights:
